@@ -1,13 +1,13 @@
 header {
-background-color: #b4cbc5; /* cor de fundo */
-color: #013005; /* cor da fonte */
+background-color: #b971e0; /* cor de fundo */
+color: #45045f; /* cor da fonte */
 text-align: center; /* centraliza o texto horizontalmente "/
 max-width: seepx; / define a largura maxima que o elemento pode ter */
 margin: 0 auto; /* centraliza o bloco inteiro na tela */
 padding: 16px; /* espacamento interno entre a borda e o conteudo */
 }
 h1{
-color: #17048f;
+color: #13a0e1;
 }
 main(
 }
@@ -22,7 +22,7 @@ display: flex; /* ativa o flexbox para alinhar os elementos filhos lado a lado *
 img{
 width: 150px; / define a largura fixa da imagem */
 height: 150px; /* define a altura fixa da imagem */
-border: 2px solid #17048f; /* adiciona uma borda solida de 2px na cor azul/roxa */
+border: 2px solid #0b0247; /* adiciona uma borda solida de 2px na cor azul/roxa */
 display: block; /* transforma a imagem em um bloco para aceitar margens verticais e quebra de linha */
 margin: 0 auto; /* centraliza a imagem horizontalmente na tela */
 .artigo-autor {
@@ -35,7 +35,7 @@ Remove margens padrao do navegador */
 padding: 0;
 }
 header {
-background-color: #b4cbc5; /* cor de fundo */
+background-color: #0bf3b5; /* cor de fundo */
 color: #013005; /* cor da fonte */
 text-align: center; / centraliza o texto horizontalmente */
 max-width: 800px; / define a largura maxima que o elemento pode ter */
@@ -43,7 +43,7 @@ margin: auto; /* centraliza o bloco inteiro na tela */
 padding: 16px; /* espacamento interno entre a borda e o conteudo */
 }
 h1{
-color: #17048f;
+color: #6e5bee;
 }
 main{
 }
